@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>ftp://102.219.84.57/home/bheleban</_PublishTargetUrl>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWbcqc/7qwEamSdeA0MtpkgAAAAACAAAAAAAQZgAAAAEAACAAAADhnkSFgODKXgIHkW6CUSYlA0C+igMGiBMTveW8sZacdAAAAAAOgAAAAAIAACAAAAAS4jMlTFOWUfMNTTWDGow5EDK7ot89iPDw9TOcZsGBZCAAAAAMEMpPqTVaWB6x4/8Xy0PsaFDdg3/+QXsZ1T+057SQOkAAAAAoCMuNDvGifmghB1DC+33A0d05JdKzkNRhOTmgqNiWiNbaA/zX1KCXpqita4MWzEYo83Xf+n7MlYC3QCpqT83J</EncryptedPassword>
+    <History>False|2022-01-08T10:33:27.5181084Z;</History>
+  </PropertyGroup>
+</Project>
